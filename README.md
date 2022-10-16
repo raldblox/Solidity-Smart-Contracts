@@ -1,3 +1,3 @@
 # Solidity-Smart-Contracts
 
-Experimental Smart Contract Designs
+Solidity Smart Contract Designs

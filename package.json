@@ -1,0 +1,31 @@
+{
+  "name": "solidity-smart-contracts",
+  "version": "1.0.0",
+  "description": "Experimental Smart Contract Designs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raldblox/Solidity-Smart-Contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raldblox/Solidity-Smart-Contracts/issues"
+  },
+  "homepage": "https://github.com/raldblox/Solidity-Smart-Contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
+    "@nomiclabs/hardhat-ethers": "^2.2.0",
+    "chai": "^4.3.6",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.12.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
